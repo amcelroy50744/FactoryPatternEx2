@@ -1,0 +1,13 @@
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.exe
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.deps.json
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.runtimeconfig.json
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.runtimeconfig.dev.json
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.dll
+C:\Users\amcel\repos\FactoryEX2\bin\Debug\netcoreapp3.1\FactoryEX2.pdb
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.AssemblyInfoInputs.cache
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.AssemblyInfo.cs
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.dll
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.pdb
+C:\Users\amcel\repos\FactoryEX2\obj\Debug\netcoreapp3.1\FactoryEX2.genruntimeconfig.cache

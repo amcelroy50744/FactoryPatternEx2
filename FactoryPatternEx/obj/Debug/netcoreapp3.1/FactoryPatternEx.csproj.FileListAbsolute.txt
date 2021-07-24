@@ -1,0 +1,13 @@
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.exe
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.deps.json
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.runtimeconfig.json
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.runtimeconfig.dev.json
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.dll
+C:\Users\amcel\repos\FactoryPatternEx\bin\Debug\netcoreapp3.1\FactoryPatternEx.pdb
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.AssemblyInfoInputs.cache
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.AssemblyInfo.cs
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.dll
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.pdb
+C:\Users\amcel\repos\FactoryPatternEx\obj\Debug\netcoreapp3.1\FactoryPatternEx.genruntimeconfig.cache
